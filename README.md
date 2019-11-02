@@ -4,7 +4,7 @@ ___
 Python when combined with Tkinter provides a fast and easy way to create *GUI applications*.
 
 ---
-###WIDGET CREATION
+### WIDGET CREATION
 ---
 For most widgets , tkinter syntax is as follows:
 
@@ -17,7 +17,7 @@ widget = Tk.Widger(parent_window,text=...,command=...,width=...,height=...)
 window.mainloop() '''mainloop() is an infinite loop used to run the application, wait for an event to occur and process the event till the window is not closed'''
 ```
 ---
-####Tkinter Widgets:
+#### Tkinter Widgets:
 
 1. Button
 2. Canvas
@@ -40,7 +40,7 @@ window.mainloop() '''mainloop() is an infinite loop used to run the application,
 19. tkMessageBox
 
 ---
-###Standard Attributes:
+### Standard Attributes:
 
 Let us look at how some of the common attributes, such as sizes, colors and fonts are specified.
 
