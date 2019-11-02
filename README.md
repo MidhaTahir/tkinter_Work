@@ -12,9 +12,10 @@ For most widgets , tkinter syntax is as follows:
 ---
 ```python
 window = Tk()
-widget = Tk.Widger(parent_window,text=...,command=...,width=...,height=...)
+widget = Tk.Widget(parent_window,text=...,command=...,width=...,height=...)
 
-window.mainloop() '''mainloop() is an infinite loop used to run the application, wait for an event to occur and process the event till the window is not closed'''
+window.mainloop() '''mainloop() is an infinite loop used to run the application, 
+wait for an event to occur and process the event till the window is not closed'''
 ```
 ---
 #### Tkinter Widgets:
